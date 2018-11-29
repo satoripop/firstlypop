@@ -1,3 +1,6 @@
+<img src="assets/images/logo-firstlypop.png" alt="Project Logo" />
+
+
 #Project Name
 =========================
 
@@ -5,8 +8,7 @@
     Project Description
 </p>
 
-<p align="center"> Insert Project Logo <img src="logo.png" alt="Project Logo" /></p>
-
+<p> Insert Project Logo </p>
 
 
 ### Installation
@@ -17,7 +19,7 @@
 
 ### Main Dependencies
 
-- bootstrap v4.0.0
+- bootstrap v4.1.3
 - jquery v3.3.1
 
 ### Development Team
