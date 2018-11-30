@@ -1,19 +1,16 @@
 <img src="assets/images/logo-firstlypop.png" alt="Project Logo" />
 
-
-#Project Name
-=========================
+<br />
+<br />
 
 <p>
-    Project Description
+    Pre-setup Bootstrap project
 </p>
-
-<p> Insert Project Logo </p>
 
 
 ### Installation
 
-- git clone 
+- download project 
 - npm install
 - npm run watch
 
@@ -24,5 +21,4 @@
 
 ### Development Team
 
-- Full Name [email]
-- Full Name [email]
+- Safa Gueddes [safa.gueddes@satoripop.com]
