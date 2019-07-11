@@ -134,3 +134,5 @@ fabric.properties
 ### Dist files ###
 assets/dist/
 mix-manifest\.json
+
+package-lock.json
